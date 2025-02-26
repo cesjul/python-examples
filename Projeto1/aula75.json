@@ -1,0 +1,16 @@
+{
+  "nome": "Nome da pessoa",
+  "sobrenome": "Sobrenome da pessoa",
+  "idade": "Idade da pessoa",
+  "altura": "Altura da pessoa",
+  "enderecos": [
+    {
+      "rua": "rua da pessoa",
+      "numero": "numero da casa"
+    },
+    {
+      "rua": "outra rua da pessoa",
+      "numero": "outro numero da casa"
+    }
+  ]
+}

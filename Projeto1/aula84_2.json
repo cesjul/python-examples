@@ -1,0 +1,42 @@
+[
+  {
+    "_nome": "Nissan",
+    "_lista_carros": [
+      "Sentra",
+      "Tiida",
+      "Livina"
+    ],
+    "_lista_motores": [
+      "MR20",
+      "MR18",
+      "MR36"
+    ],
+    "_dict_motor_carro": {
+      "MR20": [
+        "Tiida",
+        "Livina"
+      ],
+      "MR18": [],
+      "MR36": []
+    }
+  },
+  {
+    "_nome": "Honda",
+    "_lista_carros": [
+      "Civic",
+      "Fit"
+    ],
+    "_lista_motores": [
+      "Earth Dreams",
+      "iVTEC"
+    ],
+    "_dict_motor_carro": {
+      "Earth Dreams": [
+        "Fit"
+      ],
+      "iVTEC": [
+        "Civic"
+      ]
+    }
+  }
+]

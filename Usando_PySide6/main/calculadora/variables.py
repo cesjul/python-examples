@@ -1,0 +1,18 @@
+from pathlib import Path
+
+ROOT_PATH = Path(__file__).parent
+ICON_PATH = ROOT_PATH / 'files' / '10310245.png'
+HISTORY_ICON_PATH = ROOT_PATH / 'files' / 'history_icon.png'
+
+
+#Sizing
+MAX_FONT_SIZE = 40
+AVG_FONT_SIZE = 24
+MIN_FONT_SIZE = 18
+MIN_WIDTH = 400
+TEXT_MARGIN = 15
+
+#Colors
+PRIMARY_COLOR = '#0000FF'
+DARKER_PRIMARY_COLOR = '#0000CD'
+DARKEST_PRIMARY_COLOR = '#000080'
